@@ -16,5 +16,6 @@ public class Program
 
         greeter.GreetUser("World");
         greeter.GreetUser("User");
+        greeter.GreetUser("Anna");
     }
 }
